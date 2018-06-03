@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e2d6123-6dd3-4e24-82e5-18c67bc8cf72" name="Default" comment="finished 2.add two numbers">
+    <list default="true" id="3e2d6123-6dd3-4e24-82e5-18c67bc8cf72" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
-    <list id="038aae97-0167-48bf-b426-27d39833d6ba" name="finished 2.Add two num" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SolutionsWithJava/AddTwoNumbers2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SolutionsWithJava/LongestSubWithoutRC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SolutionsWithJava/AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SolutionsWithJava/AddTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SolutionsWithJava/AddTwoNumbers2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SolutionsWithJava/AddTwoNumbers2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SolutionsWithJava/LongestSubWithoutRC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SolutionsWithJava/LongestSubWithoutRC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SolutionsWithJava/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SolutionsWithJava/TwoSum.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,37 +17,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="TwoSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SolutionsWithJava/TwoSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LongestSubWithoutRC.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SolutionsWithJava/LongestSubWithoutRC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddTwoNumbers2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SolutionsWithJava/AddTwoNumbers2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-113">
+              <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="AddTwoNumbers.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SolutionsWithJava/AddTwoNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LongestSubWithoutRC.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SolutionsWithJava/LongestSubWithoutRC.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#113#114#0" expanded="true" />
-                <element signature="e#137#138#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AddTwoNumbers2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SolutionsWithJava/AddTwoNumbers2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-299">
-              <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
-              <folding>
-                <element signature="e#275#276#0" expanded="true" />
-                <element signature="e#306#307#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="162">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -80,8 +82,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/SolutionsInJava/TwoSum.java" />
         <option value="$PROJECT_DIR$/src/SolutionsWiJava/TwoSum.java" />
-        <option value="$PROJECT_DIR$/src/SolutionsWithJava/TwoSum.java" />
         <option value="$PROJECT_DIR$/src/SolutionsWithJava/AddTwoNumbers.java" />
+        <option value="$PROJECT_DIR$/src/SolutionsWithJava/TwoSum.java" />
         <option value="$PROJECT_DIR$/src/SolutionsWithJava/LongestSubWithoutRC.java" />
         <option value="$PROJECT_DIR$/src/SolutionsWithJava/AddTwoNumbers2.java" />
       </list>
@@ -96,10 +98,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="720" />
+  <component name="ProjectFrameBounds">
     <option name="y" value="22" />
-    <option name="width" value="720" />
+    <option name="width" value="1440" />
     <option name="height" value="846" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -137,6 +138,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/wyj/Desktop/Github/LeetCode/src/SolutionsWithJava/AddTwoNumbers2.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -159,7 +161,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AddTwoNumbers2">
+  <component name="RunManager" selected="Application.LongestSubWithoutRC">
     <configuration name="AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SolutionsWithJava.AddTwoNumbers" />
       <module name="LeetCode" />
@@ -173,6 +175,17 @@
     </configuration>
     <configuration name="AddTwoNumbers2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SolutionsWithJava.AddTwoNumbers2" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SolutionsWithJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="LongestSubWithoutRC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SolutionsWithJava.LongestSubWithoutRC" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -226,9 +239,11 @@
     <list>
       <item itemvalue="Application.AddTwoNumbers" />
       <item itemvalue="Application.AddTwoNumbers2" />
+      <item itemvalue="Application.LongestSubWithoutRC" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestSubWithoutRC" />
         <item itemvalue="Application.AddTwoNumbers2" />
         <item itemvalue="Application.AddTwoNumbers" />
       </list>
@@ -240,7 +255,6 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="3e2d6123-6dd3-4e24-82e5-18c67bc8cf72" name="Default" comment="" />
-      <changelist id="038aae97-0167-48bf-b426-27d39833d6ba" name="finished 2.Add two num" comment="" />
       <created>1527759635883</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -250,7 +264,9 @@
       <workItem from="1527815267676" duration="2436000" />
       <workItem from="1527827834959" duration="5636000" />
       <workItem from="1527855205637" duration="403000" />
-      <workItem from="1528001641613" duration="3010000" />
+      <workItem from="1528001641613" duration="3049000" />
+      <workItem from="1528023564472" duration="4665000" />
+      <workItem from="1528042178939" duration="3776000" />
     </task>
     <task id="LOCAL-00001" summary="finished 1.Two Sum">
       <created>1527762461800</created>
@@ -266,14 +282,28 @@
       <option name="project" value="LOCAL" />
       <updated>1528009679025</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="finished 2.add two numbers">
+      <created>1528009962846</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1528009962846</updated>
+    </task>
+    <task id="LOCAL-00004" summary="finished 2.Add two num">
+      <created>1528023653490</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1528023653490</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13413000" />
+    <option name="totallyTimeSpent" value="21893000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="846" extended-state="6" />
+    <frame x="0" y="22" width="1440" height="846" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -284,15 +314,15 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3292011" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3292011" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3292011" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12517883" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12804006" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39944905" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.2493113" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -337,14 +367,67 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finished 1.Two Sum" />
     <MESSAGE value="finished 2.Two Sum" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished 2.Two Sum" />
+    <MESSAGE value="finished 2.add two numbers" />
+    <MESSAGE value="finished 2.Add two num" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished 2.Add two num" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/SolutionsWithJava/LongestSubWithoutRC.java</url>
+          <line>10</line>
+          <properties class="SolutionsWithJava.LongestSubWithoutRC" method="lengthOfLongestSubstring">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="6" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/SolutionsWithJava/TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SolutionsWithJava/LongestSubWithoutRC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SolutionsWithJava/AddTwoNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SolutionsWithJava/LongestSubWithoutRC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SolutionsWithJava/AddTwoNumbers2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/SolutionsWithJava/AddTwoNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -356,10 +439,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -368,8 +447,7 @@
         <state relative-caret-position="126">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -423,38 +501,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SolutionsWithJava/TwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SolutionsWithJava/LongestSubWithoutRC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SolutionsWithJava/AddTwoNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="61" />
+        <state relative-caret-position="162">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SolutionsWithJava/TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SolutionsWithJava/AddTwoNumbers2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-299">
-          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        <state relative-caret-position="-113">
+          <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SolutionsWithJava/LongestSubWithoutRC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
           <folding>
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

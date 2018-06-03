@@ -4,6 +4,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 /*
+ * 1. Two Sum
+ * Runtime Beats 75.50
  * https://leetcode.com/problems/two-sum/description/
  * */
 public class TwoSum {
