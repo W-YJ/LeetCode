@@ -5,8 +5,8 @@ import java.util.Map;
 
 /*
  * 1. Two Sum
- * Runtime Beats 75.50
  * https://leetcode.com/problems/two-sum/description/
+ * Runtime Beats 75.50
  * */
 public class TwoSum {
     public int[] twoSum(int[] nums, int target) {
